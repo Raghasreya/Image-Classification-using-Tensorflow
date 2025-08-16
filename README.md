@@ -1,10 +1,17 @@
 # Image-Classification-using-Tensorflow
+
 *COMPANY*:CODTECH IT SOLUTIONS
+
 *NAME*:RAGHA SREYA
+
 *INTERN ID*:CT04DZ771
+
 *DOMAIN*: DATA SCIENCE
+
 *DURATION*:4 WEEKS
+
 *MENTOR*:NEELA SANTOSH
+
 ##Project Overview
 
 The primary goal of this project is to develop an automated image classification system using Deep Learning techniques, specifically Convolutional Neural Networks (CNNs), implemented in TensorFlow with Keras. Image classification is a fundamental computer vision task that involves assigning labels or categories to images based on their visual content. The model in this project is trained to classify images into one of ten predefined categories using the CIFAR-10 dataset, which is a standard benchmark dataset in the field of machine learning and computer vision.
@@ -16,6 +23,7 @@ This project successfully demonstrates the process of building and training an i
 The CNN model is capable of learning meaningful visual patterns from the CIFAR-10 dataset, achieving competitive accuracy levels compared to baseline approaches. Visualization of accuracy and loss trends provides insights into the model’s learning behavior. The results demonstrate that CNNs, even with a relatively simple architecture, can achieve strong performance on image classification tasks.
 
 Methodology
+
 1. Data Preprocessing
 -The CIFAR-10 dataset is loaded using TensorFlow’s built-in datasets API.
 -The pixel values of the images are normalized from the range 0–255 to 0–1 for faster convergence during training.
