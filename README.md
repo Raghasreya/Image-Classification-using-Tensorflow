@@ -18,11 +18,11 @@ The primary goal of this project is to develop an automated image classification
 
 The CIFAR-10 dataset contains 60,000 color images of size 32x32 pixels, equally distributed across 10 distinct classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck. It is split into 50,000 training images and 10,000 testing images, making it suitable for evaluating deep learning models.
 
-This project successfully demonstrates the process of building and training an image classification model using TensorFlow and Keras in google colab. The CNN-based architecture proves effective in extracting meaningful features from small, low-resolution images, and the methodology can be scaled or adapted to other datasets and real-world applications. The trained model provides a foundation for more complex image recognition systems, which can incorporate transfer learning, deeper architectures, and larger datasets for improved accuracy and robustness.
+This project demonstrates the process of building and training an image classification model using TensorFlow and Keras in google colab. The CNN-based architecture proves effective in extracting meaningful features from small, low-resolution images, and the methodology can be scaled or adapted to other datasets and real-world applications. The trained model provides a foundation for more complex image recognition systems, which can incorporate transfer learning, deeper architectures, and larger datasets for improved accuracy and robustness.
 
 The CNN model is capable of learning meaningful visual patterns from the CIFAR-10 dataset, achieving competitive accuracy levels compared to baseline approaches. Visualization of accuracy and loss trends provides insights into the model’s learning behavior. The results demonstrate that CNNs, even with a relatively simple architecture, can achieve strong performance on image classification tasks.
 
-Methodology
+##Methodology
 
 1. Data Preprocessing
 
